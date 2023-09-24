@@ -31,7 +31,7 @@ int main()
     }
     while (1)
     {
-        
+        /*this is only for seeing the output in terminal/cmd*/
     }
     
     return 0;
